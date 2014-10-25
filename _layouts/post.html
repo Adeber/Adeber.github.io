@@ -5,8 +5,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width">
 	
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/pygment_trac.css" media="screen">
+	<link rel="stylesheet" href="{{site.url}}/css/bootstrap.min.css">
+	
     <title>{{ page.title }}</title>
   </head>
 
@@ -17,8 +19,11 @@
 		<section id="main_content">
 			{{ page.content }}
 		</section>
+		
+		{% include footer.html %}
+		
 	</div>
 	
-	{% include footer.html %}
+	<script type="text/javascript" src="{{site.url}}/js/bootstrap.min.js"></script>
   </body>
 </html>
