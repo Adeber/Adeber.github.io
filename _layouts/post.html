@@ -13,11 +13,14 @@
   </head>
 
   <body>
+	{% include menu.html %}
+	
 	<div class="container">
 		<section id="main_content">
-{{ page.content }}
+			{{ page.content }}
 		</section>
-{% include footer.html %}
 	</div>
+	
+	{% include footer.html %}
   </body>
 </html>
