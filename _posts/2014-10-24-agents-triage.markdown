@@ -10,7 +10,8 @@ Les agents de triage sont des outils utilisés lors de [_digital forensic_](http
 Ils permettent de récolter des IOC (Indicators of Compromise) sur des machines. Ces IOC sont des _artefacts_, des traces techniques qui vont permettre à 
 l’équipe de réponse à incident de déterminer ou de confirmer une éventuelle compromission d’un poste de travail ou d’un serveur.
 
-## Agents open source
+
+## Open source
 
 * **Grr** par Google
 	- Plateformes : Linux, Mac OS X et Windows
@@ -25,7 +26,8 @@ l’équipe de réponse à incident de déterminer ou de confirmer une éventuel
 	- Versions : gratuit / **pro** ou **live (sur USB)**
 	- Site : [Site officiel](http://www.digital-forensic.org/)
 
-## Agents sous licences
+	
+## Sous licence
 
 * **MIR / Mandiant Intelligence Response** par [FireEye](http://www.fireeye.com)
 	- Plateformes : ??
