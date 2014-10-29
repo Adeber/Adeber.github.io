@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Agents de triage
 category: Digital Forensic
 ---	
