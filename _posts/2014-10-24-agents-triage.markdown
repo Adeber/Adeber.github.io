@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agents de triage (md)
+title: Agents de triage
 category: Digital Forensic
 ---	
 
@@ -12,20 +12,21 @@ l’équipe de réponse à incident de déterminer ou de confirmer une éventuel
 
 ## Agents open source
 
-* Grr par Google
+* **Grr** par Google
 	- Plateformes : Linux, Mac OS X et Windows
+	- Version : gratuit
 	- Sites : [Github](https://github.com/google/grr) - [Blog](http://grr-response.blogspot.fr/)
-* Kraken par le [CERT Société Générale](https://cert.societegenerale.com/en/index.html)
+* **Kraken** par le [CERT Société Générale](https://cert.societegenerale.com/en/index.html)
 	- Plateformes : ??
+	- Version : gratuit
 	- Site : [Github](https://github.com/certsocietegenerale/kraken)
+* **Digital Forensics Framework** par [ArxSys](http://www.arxsys.fr).
+	- Plateformes : Linux et Windows
+	- Versions : gratuit | **pro** ou **live (sur USB)**
+	- Site : [Site officiel](http://www.digital-forensic.org/)
 
 ## Agents sous licences
 
-* Digital Forensics Framework par [ArxSys](http://www.arxsys.fr).
-	- Plateformes : Linux et Windows
-	- Versions : gratuit / **pro** / **live (sur USB)**
-	- Site : [Site officiel](http://www.digital-forensic.org/)
-* MIR / Mandiant Intelligence Response par [FireEye]()
+* **MIR / Mandiant Intelligence Response** par [FireEye](http://www.fireeye.com)
 	- Plateformes : ??
-	- Versions : ??
-	- Sites : [Brochure](http://www.fireeye.com/resources/pdfs/fireeye-endpoint-forensics.pdf)
+	- Sites : [Description](http://www.fireeye.com/products-and-solutions/endpoint-forensics.html) - [Brochure](http://www.fireeye.com/resources/pdfs/fireeye-endpoint-forensics.pdf)
