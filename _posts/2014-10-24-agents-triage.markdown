@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Agents de triage
-permalink: /:categories/:title
 category: Digital Forensic
 ---	
 
