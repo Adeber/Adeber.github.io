@@ -3,9 +3,7 @@ layout: post
 title: Concentrateurs de logs
 category: Logs
 ---	
-<p>
 
-<h3>Titre de test</h3>
-Ceci est un essai ! </br>
+## Titre de test
 
-</p>
+Ceci est un essai !
