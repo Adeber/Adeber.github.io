@@ -22,7 +22,7 @@ l’équipe de réponse à incident de déterminer ou de confirmer une éventuel
 	- Site : [Github](https://github.com/certsocietegenerale/kraken)
 * **Digital Forensics Framework** par [ArxSys](http://www.arxsys.fr).
 	- Plateformes : Linux et Windows
-	- Versions : gratuit | **pro** ou **live (sur USB)**
+	- Versions : gratuit / **pro** ou **live (sur USB)**
 	- Site : [Site officiel](http://www.digital-forensic.org/)
 
 ## Agents sous licences
