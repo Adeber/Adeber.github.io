@@ -1,5 +1,5 @@
 ---
-title: Agents de triage
+title: Agents de tri
 category: Digital Forensic
 ---	
 
