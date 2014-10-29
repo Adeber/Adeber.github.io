@@ -13,7 +13,7 @@ l’équipe de réponse à incident de déterminer ou de confirmer une éventuel
 ## Open source
 
 * **Grr** par Google
-	- Plateformes : {% include linux-img.md %} {% include apple-img.md %} {% include win-img.md %}
+	- Plateformes : ![Windows]({{site.url}}/images/windows.png "Windows") ![OS X]({{site.url}}/images/apple.png "OS X") ![Linux]({{site.url}}/images/tux.png "Linux")
 	- Version : gratuit
 	- Sites : [Github](https://github.com/google/grr) - [Blog](http://grr-response.blogspot.fr/)
 * **Kraken** par le [CERT Société Générale](https://cert.societegenerale.com/en/index.html)
