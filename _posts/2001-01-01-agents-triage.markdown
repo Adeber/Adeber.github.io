@@ -5,7 +5,7 @@ category: Digital Forensic
 
 ## Contexte
 
-Les agents de triage sont des outils utilisés lors de [_digital forensic_](http://en.wikipedia.org/wiki/Digital_forensics). 
+Les agents de triage sont des outils utilisés lors de _digital forensic_ ([voir la fiche Wikipédia](http://en.wikipedia.org/wiki/Digital_forensics)). 
 Ils permettent de récolter des IOC (Indicators of Compromise) sur des machines. Ces IOC sont des _artefacts_, des traces techniques qui vont permettre à 
 l’équipe de réponse à incident de déterminer ou de confirmer une éventuelle compromission d’un poste de travail ou d’un serveur.
 
@@ -21,7 +21,7 @@ l’équipe de réponse à incident de déterminer ou de confirmer une éventuel
 	- Version : gratuit
 	- Site : [Github](https://github.com/certsocietegenerale/kraken)
 * **Digital Forensics Framework** par [ArxSys](http://www.arxsys.fr).
-	- Plateformes : Linux et Windows
+	- Plateformes : ![Windows]({{site.url}}/images/windows.png "Windows") ![Linux]({{site.url}}/images/tux.png "Linux")
 	- Versions : gratuit / **pro** ou **live (sur USB)**
 	- Site : [Site officiel](http://www.digital-forensic.org/)
 

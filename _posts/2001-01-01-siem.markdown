@@ -1,0 +1,9 @@
+---
+title: SIEM
+category: Journalisation
+---	
+
+## Contexte 
+
+Un outil de SIEM, ou _Security information management system_ ([voir la fiche Wikipédia](http://fr.wikipedia.org/wiki/Security_information_management_system)), collecte et analyse les logs et évènements de sécurité. 
+Il fournit des outils d’investigation sur des données passées et propose des systèmes d’alertes sur les actions temps réel. 
