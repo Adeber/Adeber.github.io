@@ -7,4 +7,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-	  author: "Adrien"
