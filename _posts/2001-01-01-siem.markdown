@@ -1,6 +1,6 @@
 ---
 title: SIEM
-category: Journalisation
+category: Sécurité
 ---	
 
 ## Contexte 

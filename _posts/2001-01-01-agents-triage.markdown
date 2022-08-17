@@ -1,6 +1,6 @@
 ---
 title: Agents de triage
-category: Digital Forensic
+category: Sécurité
 ---	
 
 ## Contexte
